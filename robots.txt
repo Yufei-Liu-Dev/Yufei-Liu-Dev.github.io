@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Yufei-Liu-Dev.github.io/sitemap.xml
+Sitemap: https://liuyufei-nubot.github.io/sitemap.xml
